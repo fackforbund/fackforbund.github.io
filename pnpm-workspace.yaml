@@ -1,0 +1,5 @@
+allowBuilds:
+  sharp: true
+  unrs-resolver: true
+minimumReleaseAgeExclude:
+  - '@svenskamodellen/components@1.6.0'

@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "next": "15.1.6",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@svenskamodellen/components": "^1.6.0",
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4.0.0",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.1.6",
+    "postcss": "^8",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5"
+  },
+  "name": "@fackforbund/fackforbund.github.io",
+  "postcss": {
+    "plugins": {
+      "@tailwindcss/postcss": {}
+    }
+  },
+  "scripts": {
+    "build": "next build",
+    "deploy": "npx gh-pages --nojekyll --no-history --branch gh-pages -d out --repo git@github.com:fackforbund/fackforbund.github.io.git",
+    "dev": "next dev",
+    "lint": "next lint",
+    "ship": "pnpm build && pnpm deploy",
+    "start": "next start"
+  },
+  "version": "0.1.0"
+}
