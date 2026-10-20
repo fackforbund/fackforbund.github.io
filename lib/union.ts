@@ -31,18 +31,10 @@ export function getUnionSlugs(): string[] {
     .map((entry) => entry.name.slice(0, -3));
 }
 
-// Agreement lines are plain links: `- [Title](url)`. The thumbnail is derived
-// from the agreement slug in the url, which kollektivavtal-autoindex now emits
-// as `<year>/<slug>-320.webp` alongside `<year>/<slug>/`.
-const agreementLink = /^-\s*\[([^\]]*)\]\(([^)]+)\)\s*$/;
-
-// Also accept the legacy `- [![alt](img)](url)` form so existing markdown keeps
-// working; the embedded image is ignored in favour of the slug-derived one.
-const legacyImageLink = /^-\s*\[!\[[^\]]*\]\([^)]+\)\]\(([^)]+)\)\s*$/;
-
-function thumbnailFromUrl(url: string): string {
-  return `${url.replace(/\/$/, "")}-320.webp`;
-}
+// Agreement lines use the embedded-image form `- [![alt](img)](url)`, where
+// `img` is the agreement thumbnail URL and `url` is the agreement page. The
+// image URL is used directly rather than derived from the slug.
+const imageLink = /^-\s*\[!\[([^\]]*)\]\(([^)]+)\)\]\(([^)]+)\)\s*$/;
 
 export function parseUnion(slug: string): Union {
   const markdown = fs.readFileSync(
@@ -92,28 +84,10 @@ export function parseUnion(slug: string): Union {
       continue;
     }
 
-    // Check the legacy image form first: a plain-link regex would otherwise
-    // partially (and wrongly) match the `[![alt](img)](url)` syntax.
-    const legacyMatch = line.match(legacyImageLink);
-    if (legacyMatch && currentYear) {
-      const [, url] = legacyMatch;
-      const title = line.match(/\[!\[([^\]]*)\]/)?.[1] ?? url;
-      currentYear.agreements.push({
-        title,
-        url,
-        thumbnail: thumbnailFromUrl(url),
-      });
-      continue;
-    }
-
-    const plainMatch = line.match(agreementLink);
-    if (plainMatch && currentYear) {
-      const [, title, url] = plainMatch;
-      currentYear.agreements.push({
-        title,
-        url,
-        thumbnail: thumbnailFromUrl(url),
-      });
+    const agreementMatch = line.match(imageLink);
+    if (agreementMatch && currentYear) {
+      const [, title, thumbnail, url] = agreementMatch;
+      currentYear.agreements.push({ title, url, thumbnail });
       continue;
     }
 
