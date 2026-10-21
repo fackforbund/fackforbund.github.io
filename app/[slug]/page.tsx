@@ -3,6 +3,7 @@ import { Container } from "@svenskamodellen/components/Container";
 import { Main } from "@svenskamodellen/components/Main";
 import { Section } from "@svenskamodellen/components/Section";
 import { TopLevelHeading } from "@svenskamodellen/components/TopLevelHeading";
+import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getUnionSlugs, parseUnion } from "@/lib/union";
 
@@ -10,6 +11,24 @@ export const dynamic = "force-static";
 
 export function generateStaticParams() {
   return getUnionSlugs().map((slug) => ({ slug }));
+}
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}): Promise<Metadata> {
+  const { slug } = await params;
+
+  if (!getUnionSlugs().includes(slug)) {
+    return {};
+  }
+
+  const union = parseUnion(slug);
+
+  return {
+    title: union.name,
+  };
 }
 
 export default async function UnionPage({
