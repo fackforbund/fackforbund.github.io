@@ -35,36 +35,31 @@ export default function Home() {
                   0
                 );
                 return (
-                <li key={union.slug}>
-                  <a
-                    className="group flex items-center gap-x-3"
-                    href={`/${union.slug}`}
+                  <li
+                    key={union.slug}
+                    className="group relative flex items-center gap-x-4"
                   >
-                    <div className="flex h-16 w-16 shrink-0 items-center justify-center rounded-md bg-white p-1.5 shadow-sm ring-1 ring-black/5 transition duration-150 group-hover:shadow-md dark:shadow-none dark:ring-white/40 dark:group-hover:-translate-y-1 dark:group-hover:ring-2 dark:group-hover:ring-white">
-                      {union.logo ? (
-                        <img
-                          alt=""
-                          className="h-full w-full object-contain"
-                          src={union.logo}
-                        />
-                      ) : (
-                        <span className="text-sm font-bold text-slate-300">
-                          {union.name.charAt(0)}
-                        </span>
-                      )}
+                    <div className="flex h-32 w-32 shrink-0 items-center justify-center rounded-md bg-white p-1.5 shadow-sm ring-1 ring-black/5 transition duration-150 group-hover:shadow-md dark:shadow-none dark:ring-white/40 dark:group-hover:-translate-y-1 dark:group-hover:ring-2 dark:group-hover:ring-white">
+                      <img
+                        alt=""
+                        className="h-full w-full object-contain"
+                        src={union.logo}
+                      />
                     </div>
                     <span className="flex flex-col font-lilex">
-                      <span className="font-bold text-link group-hover:underline tracking-tight">
+                      <a
+                        className="text-link underline after:absolute after:inset-0 section-heading"
+                        href={`/${union.slug}`}
+                      >
                         {union.name}
-                      </span>
+                      </a>
                       {agreementCount > 0 && (
                         <span className="text-sm text-slate-500 dark:text-slate-100">
                           {agreementCount} kollektivavtal i arkivet
                         </span>
                       )}
                     </span>
-                  </a>
-                </li>
+                  </li>
                 );
               })}
             </ul>

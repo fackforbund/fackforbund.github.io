@@ -55,14 +55,14 @@ export default async function UnionPage({
         }}
       </Breadcrumbs>
       <Main>
-        <Container className="flex w-full flex-col gap-12">
+        <Container className="flex w-full flex-col gap-y-8">
           <header className="flex w-full flex-col gap-10 md:flex-row md:items-start">
-            <div className="flex flex-col gap-y-6 md:flex-1 md:min-w-0">
+            <div className="flex flex-col gap-y-8 md:flex-1 md:min-w-0">
               <TopLevelHeading text={union.name} />
               {union.description.length > 0 && (
-                <div className="flex max-w-prose flex-col gap-y-4 font-lilex">
+                <div className="flex max-w-prose flex-col gap-y-4">
                   {union.description.map((paragraph, index) => (
-                    <p key={index} className="text-base leading-relaxed">
+                    <p key={index} className="body-text leading-relaxed">
                       {paragraph}
                     </p>
                   ))}
@@ -124,11 +124,11 @@ export default async function UnionPage({
             </aside>
           </header>
 
-          <Section className="w-full overflow-visible">
-            <h2 id="avtal" className="mb-8 scroll-mt-20 font-serif text-3xl font-bold md:text-4xl">
+          <Section>
+            <h2 id="avtal" className="scroll-mt-20 section-heading">
               Avtal
             </h2>
-            <p className="mb-8 max-w-prose font-lilex text-base leading-relaxed">
+            <p className="max-w-prose body-text leading-relaxed">
               Är du medlem i eller anställd hos {union.name}? Har du tillgång
               till avtal som saknas här? Skicka gärna PDF:er till{" "}
               <a
@@ -146,26 +146,27 @@ export default async function UnionPage({
               </a>
               .
             </p>
-            <div className="flex w-full flex-col gap-y-10">
+          </Section>
+          <Section>
+            <div className="flex w-full flex-col gap-y-8">
               {union.years.map((year) => (
                 <section key={year.name} className="flex flex-col gap-y-5">
-                  <div className="flex flex-col gap-y-1">
+                  <div className="flex flex-col">
                     <h3
                       id={`avtal-${year.name}`}
-                      className="scroll-mt-20 font-serif text-2xl font-bold md:text-3xl"
+                      className="scroll-mt-20 section-heading"
                     >
                       {year.name}
                     </h3>
-                    <span className="font-lilex text-base text-slate-500 dark:text-slate-100">
+                    <span className="body-text text-slate-500 dark:text-slate-100">
                       {year.agreements.length} avtal
                     </span>
                   </div>
                   <div className="flex gap-x-4 overflow-x-auto -mx-2 px-2 pt-2 pb-4 pr-8 [scrollbar-width:thin] [mask-image:linear-gradient(to_right,black_calc(100%-2rem),transparent)]">
                     {year.agreements.map((agreement) => (
-                      <a
+                      <div
                         key={agreement.url}
-                        className="group flex w-40 shrink-0 flex-col gap-y-2"
-                        href={agreement.url}
+                        className="group relative flex w-40 shrink-0 flex-col gap-y-2"
                       >
                         <div className="aspect-[707/1000] w-full overflow-hidden rounded-md bg-white shadow-md ring-1 ring-black/10 transition-transform duration-150 group-hover:-translate-y-0.5 group-hover:shadow-lg dark:ring-white/50 dark:ring-offset-2 dark:ring-offset-[var(--color-background)]">
                           <img
@@ -174,10 +175,13 @@ export default async function UnionPage({
                             src={agreement.thumbnail}
                           />
                         </div>
-                        <span className="line-clamp-2 font-lilex text-sm leading-5 tracking-tighter group-hover:underline">
+                        <a
+                          // className="text-link underline text-link underline line-clamp-2 body-text group-hover:underline after:absolute after:inset-0"
+                          href={agreement.url}
+                        >
                           {agreement.title}
-                        </span>
-                      </a>
+                        </a>
+                      </div>
                     ))}
                   </div>
                 </section>
