@@ -1,2 +1,3 @@
 @import "../node_modules/@svenskamodellen/components/tailwind.css";
 @source "../node_modules/@svenskamodellen/components";
+@source "./";

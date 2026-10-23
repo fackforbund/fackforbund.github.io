@@ -37,18 +37,18 @@ export default function Home() {
                 return (
                   <li
                     key={union.slug}
-                    className="group relative flex items-center gap-x-4"
+                    className="group relative flex xxs:items-center gap-x-4 flex-col xxs:flex-row max-w-full"
                   >
-                    <div className="flex h-32 w-32 shrink-0 items-center justify-center rounded-md bg-white p-1.5 shadow-sm ring-1 ring-black/5 transition duration-150 group-hover:shadow-md dark:shadow-none dark:ring-white/40 dark:group-hover:-translate-y-1 dark:group-hover:ring-2 dark:group-hover:ring-white">
+                    <div className="h-16 w-16 sm:h-32 sm:w-32 shrink-0 items-center justify-center rounded-md bg-white p-1.5 shadow-sm ring-1 ring-black/5 transition duration-150 group-hover:shadow-md dark:shadow-none dark:ring-white/40 dark:group-hover:-translate-y-1 dark:group-hover:ring-2 dark:group-hover:ring-white">
                       <img
                         alt=""
                         className="h-full w-full object-contain"
                         src={union.logo}
                       />
                     </div>
-                    <span className="flex flex-col font-lilex">
+                    <span className="flex flex-col font-lilex min-w-0">
                       <a
-                        className="text-link underline after:absolute after:inset-0 section-heading"
+                        className="text-link underline after:absolute after:inset-0 section-heading hyphens-auto break-words"
                         href={`/${union.slug}`}
                       >
                         {union.name}

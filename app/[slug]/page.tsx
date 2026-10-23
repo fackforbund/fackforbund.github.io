@@ -165,7 +165,7 @@ export default async function UnionPage({
                     {year.agreements.map((agreement) => (
                       <div
                         key={agreement.url}
-                        className="group relative flex w-40 shrink-0 flex-col gap-y-2"
+                        className="group relative flex w-48 shrink-0 flex-col gap-y-2"
                       >
                         <div className="aspect-[707/1000] w-full overflow-hidden rounded-md bg-white shadow-md ring-1 ring-black/10 transition-transform duration-150 group-hover:-translate-y-0.5 group-hover:shadow-lg dark:ring-white/50 dark:ring-offset-2 dark:ring-offset-[var(--color-background)]">
                           <img
@@ -175,7 +175,8 @@ export default async function UnionPage({
                           />
                         </div>
                         <a
-                          // className="text-link underline text-link underline line-clamp-2 body-text group-hover:underline after:absolute after:inset-0"
+                          className="block w-full min-w-0 text-link underline body-text [hyphens:auto] [hyphenate-limit-chars:3_1_1] [overflow-wrap:break-word] group-hover:underline after:absolute after:inset-0"
+                          lang="sv"
                           href={agreement.url}
                         >
                           {agreement.title}
