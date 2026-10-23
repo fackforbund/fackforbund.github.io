@@ -22,8 +22,8 @@ importers:
         specifier: ^3
         version: 3.3.7(supports-color@7.2.0)
       '@svenskamodellen/components':
-        specifier: ^1.7.0
-        version: 1.7.0(@types/react@19.3.0)(react-dom@19.3.1(react@19.3.1))(react@19.3.1)(recharts@2.15.4(react-dom@19.3.1(react@19.3.1))(react@19.3.1))(tailwindcss@4.3.3)(typescript@5.9.3)
+        specifier: ^1.9.0
+        version: 1.9.0(@types/react@19.3.0)(react-dom@19.3.1(react@19.3.1))(react@19.3.1)(recharts@2.15.4(react-dom@19.3.1(react@19.3.1))(react@19.3.1))(tailwindcss@4.3.3)(typescript@5.9.3)
       '@tailwindcss/postcss':
         specifier: ^4.0.0
         version: 4.3.3
@@ -370,8 +370,8 @@ packages:
   '@rushstack/eslint-patch@1.16.1':
     resolution: {integrity: sha512-TvZbIpeKqGQQ7X0zSCvPH9riMSFQFSggnfBjFZ1mEoILW+UuXCKwOoPcgjMwiUtRqFZ8jWhPJc4um14vC6I4ag==}
 
-  '@svenskamodellen/components@1.7.0':
-    resolution: {integrity: sha512-fDgT58j0X5r8m1ahs2zM4UMAL917PswbwQlNaO9I+PGIMyIqa0qhc5UyHM1waN/lyKZi8WgvzwtrkUG2GJmcxg==}
+  '@svenskamodellen/components@1.9.0':
+    resolution: {integrity: sha512-TFr+oySdYvoY2714+DM4p3FItKm7qr3S4N8ZnajAAp2VifdsSkmF0mVHou+bi61TQi/7ULx8p2NRjk0OKLeDdw==}
     peerDependencies:
       react: ^19.0.0
       react-dom: ^19.0.0
@@ -2271,7 +2271,7 @@ snapshots:
 
   '@rushstack/eslint-patch@1.16.1': {}
 
-  '@svenskamodellen/components@1.7.0(@types/react@19.3.0)(react-dom@19.3.1(react@19.3.1))(react@19.3.1)(recharts@2.15.4(react-dom@19.3.1(react@19.3.1))(react@19.3.1))(tailwindcss@4.3.3)(typescript@5.9.3)':
+  '@svenskamodellen/components@1.9.0(@types/react@19.3.0)(react-dom@19.3.1(react@19.3.1))(react@19.3.1)(recharts@2.15.4(react-dom@19.3.1(react@19.3.1))(react@19.3.1))(tailwindcss@4.3.3)(typescript@5.9.3)':
     dependencies:
       '@radix-ui/react-slot': 1.5.0(@types/react@19.3.0)(react@19.3.1)
       class-variance-authority: 0.7.1
