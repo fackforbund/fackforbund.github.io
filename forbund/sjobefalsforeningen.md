@@ -1,5 +1,7 @@
 # Sjöbefälsföreningen
 
+https://www.sjobefalsforeningen.se/
+
 Sjöbefälsföreningen är ett fackförbund för catering, ingenjörer och sjöbefäl inom den svenska handelsflottan och på utländska fartyg med svenska befäl ombord.
 
 ## Kollektivavtal

@@ -1,5 +1,7 @@
 # Säljarnas
 
+https://saljarnas.se/
+
 Säljarnas Riksförbund, oftast kallat Säljarnas, är ett fackförbund för säljare, marknadsförare och andra yrkesverksamma inom försäljning.
 
 ## Kollektivavtal

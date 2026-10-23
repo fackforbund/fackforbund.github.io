@@ -1,5 +1,7 @@
 # Livs
 
+https://www.livs.se/
+
 Livsmedelsarbetareförbundet – mer känt som Livs – är ett fackförbund som representerar arbetare inom livsmedels- och dryckesindustrin.
 
 ## Kollektivavtal

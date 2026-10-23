@@ -1,5 +1,7 @@
 # DIK
 
+https://dik.se/
+
 DIK är ett fackförbund för akademiker som arbetar inom kultur- och kommunikationsområdet.
 
 ## Kollektivavtal

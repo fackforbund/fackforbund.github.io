@@ -109,17 +109,16 @@ export default async function UnionPage({
                 </div>
               )}
               <dl className="flex flex-col gap-y-5 font-lilex">
-                <div className="flex flex-col gap-y-1">
-                  <dt className="font-serif font-bold">Webbplats</dt>
-                  <dd>
-                    <a
-                      className="text-link underline"
-                      href={`https://${union.slug}.se`}
-                    >
-                      {union.slug}.se
-                    </a>
-                  </dd>
-                </div>
+                {union.website && (
+                  <div className="flex flex-col gap-y-1">
+                    <dt className="font-serif font-bold">Webbplats</dt>
+                    <dd>
+                      <a className="text-link underline" href={union.website}>
+                        {union.website.replace(/^https?:\/\//, "").replace(/\/$/, "")}
+                      </a>
+                    </dd>
+                  </div>
+                )}
               </dl>
             </aside>
           </header>

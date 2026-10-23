@@ -1,5 +1,7 @@
 # Akademikerförbundet SSR
 
+https://akademssr.se/
+
 Akademikerförbundet SSR är ett fackförbund för yrkesverksamma med universitetsutbildning inom samhällsvetenskap, beteendevetenskap, personalfrågor, välfärd och relaterade områden.
 
 ## Kollektivavtal

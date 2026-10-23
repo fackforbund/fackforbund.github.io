@@ -1,5 +1,7 @@
 # Fastighets
 
+https://www.fastighets.se/
+
 Fastighetsanställdas Förbund, mer allmänt känt som Fastighets, är ett fackförbund som representerar fastighetsskötare.
 
 ## Kollektivavtal

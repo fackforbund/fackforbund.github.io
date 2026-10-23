@@ -1,5 +1,7 @@
 # Psykologförbundet
 
+https://www.psykologforbundet.se/
+
 Psykologförbundet är ett fackförbund för psykologer.
 
 ## Kollektivavtal

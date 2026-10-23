@@ -1,5 +1,7 @@
 # Sveriges Skolledare
 
+https://www.sverigesskolledare.se/
+
 Sveriges Skolledare är ett fackförbund för ledare inom skol- och utbildningssektorn.
 
 ## Kollektivavtal

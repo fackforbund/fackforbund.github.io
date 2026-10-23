@@ -1,5 +1,7 @@
 # Handels
 
+https://www.handels.se/
+
 Fackförbundet Handelsanställdas förbund, mer känt som Handels, är Sveriges tredje största fackförbund för arbetare. Det är mest nära förknippat med detaljhandeln, men organiserar också grossist- och tjänstearbetare som florister, frisörer, lagerpersonal, optiker, urmakare, kontorspersonal och studenter inom yrkesutbildning.
 
 ## Kollektivavtal

@@ -1,5 +1,7 @@
 # Elektrikerna
 
+https://www.sef.se/
+
 Elektrikerförbundet, mer känt som Elektrikerna, är ett fackförbund som representerar elektriker.
 
 ## Kollektivavtal

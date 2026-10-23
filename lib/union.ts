@@ -16,6 +16,7 @@ export interface Union {
   slug: string;
   name: string;
   logo: string;
+  website: string | null;
   description: string[];
   years: AgreementYear[];
 }
@@ -36,6 +37,9 @@ export function getUnionSlugs(): string[] {
 // image URL is used directly rather than derived from the slug.
 const imageLink = /^-\s*\[!\[([^\]]*)\]\(([^)]+)\)\]\(([^)]+)\)\s*$/;
 
+// A bare URL on its own line (the union's website).
+const bareUrl = /^https?:\/\/\S+$/;
+
 export function parseUnion(slug: string): Union {
   const markdown = fs.readFileSync(
     path.join(contentRoot, `${slug}.md`),
@@ -45,6 +49,9 @@ export function parseUnion(slug: string): Union {
   let name = slug;
   // The logo is served from `public/<slug>/<slug>@512x512.webp`.
   const logo = `/${slug}/${slug}@512x512.webp`;
+  let website: string | null = null;
+  // The website, if present, is the first thing after the h1.
+  let expectWebsite = false;
   const description: string[] = [];
   let paragraph: string[] = [];
   let inPreamble = true;
@@ -67,7 +74,16 @@ export function parseUnion(slug: string): Union {
 
     if (line.startsWith("# ")) {
       name = line.slice(2).trim();
+      expectWebsite = true;
       continue;
+    }
+
+    if (expectWebsite) {
+      expectWebsite = false;
+      if (bareUrl.test(line)) {
+        website = line;
+        continue;
+      }
     }
 
     if (line.startsWith("### ")) {
@@ -99,5 +115,5 @@ export function parseUnion(slug: string): Union {
 
   flushParagraph();
 
-  return { slug, name, logo, description, years };
+  return { slug, name, logo, website, description, years };
 }

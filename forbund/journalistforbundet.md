@@ -1,5 +1,7 @@
 # Journalistförbundet
 
+https://www.sjf.se/
+
 Journalistförbundet, även känd som SJF, organiserar yrkesverksamma journalister.
 
 ## Kollektivavtal

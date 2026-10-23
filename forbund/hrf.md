@@ -1,5 +1,7 @@
 # Hotell- och Restaurangfacket
 
+https://www.hrf.net/
+
 Hotell- och Restaurangfacket, även känt som HRF, representerar anställda inom hotell- och restaurangbranschen. Det innebär saker som hotell, restauranger, caféer och cateringtjänster.
 
 ## Kollektivavtal

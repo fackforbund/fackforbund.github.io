@@ -1,5 +1,7 @@
 # Seko
 
+https://www.seko.se/
+
 Seko, Service- och kommunikationsfacket, mer känt som Seko, är ett fackförbund som organiserar statliga anställda inom olika sektorer.
 
 ## Kollektivavtal

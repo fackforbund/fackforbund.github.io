@@ -1,5 +1,7 @@
 # IF Metall
 
+https://www.ifmetall.se/
+
 IF Metall är ett fackförbund som representerar anställda inom industriella sektorer som metall, kemikalier och textilier.
 
 ## Kollektivavtal
