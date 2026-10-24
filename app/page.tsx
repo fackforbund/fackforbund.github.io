@@ -27,6 +27,11 @@ export default function Home() {
             subtext="A–Ö listan över Sveriges nuvarande fackförbund"
           />
 
+          <div className="flex flex-col gap-6">
+            <p className="max-w-prose body-text">Den här sidan är en del av webbprojektet <a className="text-link underline" href="https://svenskamodellen.github.io/">Svenska Modellen</a>. Google vimlar av fackförbundslistor och guider och jämförelsetjänster, ofta byggda av vinstdrivna företag, späckade med affiliate-länkar, hopplöst inaktuella, eller alla tre. Denna ger dig tillgång till kollektivavtal.
+            </p>
+          </div>
+
           <Section className="w-full overflow-visible">
             <ul className="flex w-full flex-col gap-y-8">
               {unions.map((union) => {
