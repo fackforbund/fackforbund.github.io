@@ -8,7 +8,7 @@ Elektrikerförbundet, mer känt som Elektrikerna, är ett fackförbund som repre
 
 ### 2025
 
-- [![Bemanningsavtalet (LO).pdf](https://kollektivavtal.github.io/2025/bemanningsavtalet-lo.pdf-320.webp)](https://kollektivavtal.github.io/2025/bemanningsavtalet-lo.pdf/)
+- [![Bemanningsavtalet (LO)](https://kollektivavtal.github.io/2025/bemanningsavtalet-lo-320.webp)](https://kollektivavtal.github.io/2025/bemanningsavtalet-lo/)
 - [![Elektronikteknikeravtalet](https://kollektivavtal.github.io/2025/elektronikteknikeravtalet-320.webp)](https://kollektivavtal.github.io/2025/elektronikteknikeravtalet/)
 - [![Installationsavtalet](https://kollektivavtal.github.io/2025/installationsavtalet-320.webp)](https://kollektivavtal.github.io/2025/installationsavtalet/)
 - [![Kraftverksavtalet](https://kollektivavtal.github.io/2025/kraftverksavtalet-320.webp)](https://kollektivavtal.github.io/2025/kraftverksavtalet/)

@@ -8,7 +8,7 @@ Seko, Service- och kommunikationsfacket, mer känt som Seko, är ett fackförbun
 
 ### 2025
 
-- [![Bemanningsavtalet (LO).pdf](https://kollektivavtal.github.io/2025/bemanningsavtalet-lo.pdf-320.webp)](https://kollektivavtal.github.io/2025/bemanningsavtalet-lo.pdf/)
+- [![Bemanningsavtalet (LO)](https://kollektivavtal.github.io/2025/bemanningsavtalet-lo-320.webp)](https://kollektivavtal.github.io/2025/bemanningsavtalet-lo/)
 - [![Blå avtalet](https://kollektivavtal.github.io/2025/bla-avtalet-320.webp)](https://kollektivavtal.github.io/2025/bla-avtalet/)
 - [![Djursjukvård](https://kollektivavtal.github.io/2025/djursjukvard-1-arbetare-320.webp)](https://kollektivavtal.github.io/2025/djursjukvard/)
 - [![Energiavtalet](https://kollektivavtal.github.io/2025/energiavtalet-1-unionen,-sveriges-ingenjorer,-ledarna,-seko-320.webp)](https://kollektivavtal.github.io/2025/energiavtalet/)

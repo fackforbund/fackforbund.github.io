@@ -8,7 +8,7 @@ IF Metall är ett fackförbund som representerar anställda inom industriella se
 
 ### 2025
 
-- [![Bemanningsavtalet (LO).pdf](https://kollektivavtal.github.io/2025/bemanningsavtalet-lo.pdf-320.webp)](https://kollektivavtal.github.io/2025/bemanningsavtalet-lo.pdf/)
+- [![Bemanningsavtalet (LO)](https://kollektivavtal.github.io/2025/bemanningsavtalet-lo-320.webp)](https://kollektivavtal.github.io/2025/bemanningsavtalet-lo/)
 - [![Buteljglasindustrin](https://kollektivavtal.github.io/2025/buteljglasindustrin-320.webp)](https://kollektivavtal.github.io/2025/buteljglasindustrin/)
 - [![Byggnadsämnesindustrin](https://kollektivavtal.github.io/2025/byggnadsamnesindustrin-320.webp)](https://kollektivavtal.github.io/2025/byggnadsamnesindustrin/)
 - [![Explosivämnesavtalet](https://kollektivavtal.github.io/2025/explosivamnesavtalet-320.webp)](https://kollektivavtal.github.io/2025/explosivamnesavtalet/)
