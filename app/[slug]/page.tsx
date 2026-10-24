@@ -146,7 +146,7 @@ export default async function UnionPage({
               .
             </p>
           </Section>
-          <Section>
+          <Section className="overflow-visible">
             <div className="flex w-full flex-col gap-y-8">
               {union.years.map((year) => (
                 <section key={year.name} className="flex flex-col gap-y-5">
