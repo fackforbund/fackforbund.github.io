@@ -5,6 +5,7 @@ export interface Agreement {
   title: string;
   thumbnail: string;
   url: string;
+  note?: string;
 }
 
 export interface AgreementYear {
@@ -57,6 +58,7 @@ export function parseUnion(slug: string): Union {
   let inPreamble = true;
   const years: AgreementYear[] = [];
   let currentYear: AgreementYear | null = null;
+  let currentAgreement: Agreement | null = null;
 
   const flushParagraph = () => {
     if (paragraph.length) {
@@ -69,6 +71,7 @@ export function parseUnion(slug: string): Union {
     const line = rawLine.trim();
     if (!line) {
       flushParagraph();
+      currentAgreement = null;
       continue;
     }
 
@@ -89,6 +92,7 @@ export function parseUnion(slug: string): Union {
     if (line.startsWith("### ")) {
       inPreamble = false;
       currentYear = { name: line.slice(4).trim(), agreements: [] };
+      currentAgreement = null;
       years.push(currentYear);
       continue;
     }
@@ -97,15 +101,24 @@ export function parseUnion(slug: string): Union {
       // Section heading (e.g. "Kollektivavtal"); reset the active year.
       inPreamble = false;
       currentYear = null;
+      currentAgreement = null;
+      continue;
+    }
+
+    if (currentAgreement && /^\s{2,}\S/.test(rawLine)) {
+      currentAgreement.note = line;
       continue;
     }
 
     const agreementMatch = line.match(imageLink);
     if (agreementMatch && currentYear) {
       const [, title, thumbnail, url] = agreementMatch;
-      currentYear.agreements.push({ title, url, thumbnail });
+      currentAgreement = { title, url, thumbnail };
+      currentYear.agreements.push(currentAgreement);
       continue;
     }
+
+    currentAgreement = null;
 
     // Any remaining plain text before the first section is the description.
     if (inPreamble) {

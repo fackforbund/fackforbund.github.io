@@ -181,6 +181,11 @@ export default async function UnionPage({
                         >
                           {agreement.title}
                         </a>
+                        {agreement.note && (
+                          <p className="body-text text-slate-500 dark:text-slate-100">
+                            {agreement.note}
+                          </p>
+                        )}
                       </div>
                     ))}
                   </div>
