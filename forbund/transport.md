@@ -8,4 +8,4 @@ Transportarbetareförbundet, mer känt som Transport, är ett fackförbund som r
 
 ### 2017
 
-- [![Transportavtalet](https://kollektivavtal.github.io/2017/transportavtalet-320.webp)](https://kollektivavtal.github.io/2017/transportavtalet/)
+- [Transportavtalet](https://kollektivavtal.github.io/2017/transportavtalet/)

@@ -86,9 +86,7 @@ async function main() {
     );
     lines.push(`### ${year}`, "");
     for (const a of agreements) {
-      const icon = `https://kollektivavtal.github.io/${year}/${slugify(
-        a.pdf.slice(0, -4)
-      )}-320.webp`;
+      const icon = `https://kollektivavtal.github.io/${year}/${a.slug}-320.webp`;
       const url = `https://kollektivavtal.github.io/${year}/${a.slug}/`;
       lines.push(`- [![${a.title}](${icon})](${url})`);
     }

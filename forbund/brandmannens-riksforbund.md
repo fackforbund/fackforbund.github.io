@@ -8,4 +8,4 @@ Brandmännens Riksförbund - även känt som BRF - är ett fackförbund för bra
 
 ### 2024
 
-- [![Räddningstjänst i Beredskap](https://kollektivavtal.github.io/2024/raddningstjanst-i-beredskap-1-overenskommelse-med-brf-320.webp)](https://kollektivavtal.github.io/2024/raddningstjanst-i-beredskap/)
+- [Räddningstjänst i Beredskap](https://kollektivavtal.github.io/2024/raddningstjanst-i-beredskap/)

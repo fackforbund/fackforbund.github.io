@@ -8,4 +8,4 @@ Fackförbundet Handelsanställdas förbund, mer känt som Handels, är Sveriges 
 
 ### 2025
 
-- [![Detaljhandelsavtalet (Installatörsföretagen)](https://kollektivavtal.github.io/2025/detaljhandelsavtalet-installatorsforetagen-1-kollektivavtal-320.webp)](https://kollektivavtal.github.io/2025/detaljhandelsavtalet-installatorsforetagen/)
+- [Detaljhandelsavtalet (Installatörsföretagen)](https://kollektivavtal.github.io/2025/detaljhandelsavtalet-installatorsforetagen/)

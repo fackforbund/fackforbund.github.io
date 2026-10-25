@@ -8,4 +8,4 @@ Sveriges Läkarförbund är ett fackförbund för läkare.
 
 ### 2015
 
-- [![Bransch E - Vård- och behandlingsverksamhet](https://kollektivavtal.github.io/2015/bransch-e-vard-och-behandlingsverksamhet-1-kollektivavtal-320.webp)](https://kollektivavtal.github.io/2015/bransch-e-vard-och-behandlingsverksamhet/)
+- [Bransch E - Vård- och behandlingsverksamhet](https://kollektivavtal.github.io/2015/bransch-e-vard-och-behandlingsverksamhet/)

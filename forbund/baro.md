@@ -8,5 +8,5 @@ Bussarbetarnas Riksorganisation, mer känt som BARO, är ett fristående fackfö
 
 ### 2025
 
-- [![Bussbranschavtalet](https://kollektivavtal.github.io/2025/bussbranschavtalet-320.webp)](https://kollektivavtal.github.io/2025/bussbranschavtalet/)
+- [Bussbranschavtalet](https://kollektivavtal.github.io/2025/bussbranschavtalet/)
   Tecknar inte avtalet men har många medlemmar inom avtalsområdet

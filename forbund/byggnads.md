@@ -8,19 +8,19 @@ Byggnadsarbetareförbundet, mer känt som Byggnads, är ett fackförbund som rep
 
 ### 2025
 
-- [![Byggavtalet](https://kollektivavtal.github.io/2025/byggavtalet-1-kollektivavtal-320.webp)](https://kollektivavtal.github.io/2025/byggavtalet/)
-- [![Glasmästeriavtalet](https://kollektivavtal.github.io/2025/glasmasteriavtalet-1-kollektivavtal-320.webp)](https://kollektivavtal.github.io/2025/glasmasteriavtalet/)
-- [![Måleriavtalet](https://kollektivavtal.github.io/2025/maleriavtalet-1-kollektivavtal-320.webp)](https://kollektivavtal.github.io/2025/maleriavtalet/)
-- [![Teknikinstallationsavtalet VVS & Kyl](https://kollektivavtal.github.io/2025/teknikinstallationsavtalet-vvs-kyl-1-kollektivavtal-320.webp)](https://kollektivavtal.github.io/2025/teknikinstallationsavtalet-vvs-kyl/)
+- [Byggavtalet](https://kollektivavtal.github.io/2025/byggavtalet/)
+- [Glasmästeriavtalet](https://kollektivavtal.github.io/2025/glasmasteriavtalet/)
+- [Måleriavtalet](https://kollektivavtal.github.io/2025/maleriavtalet/)
+- [Teknikinstallationsavtalet VVS & Kyl](https://kollektivavtal.github.io/2025/teknikinstallationsavtalet-vvs-kyl/)
 
 ### 2023
 
-- [![Byggavtalet](https://kollektivavtal.github.io/2023/byggavtalet-1-kollektivavtal-320.webp)](https://kollektivavtal.github.io/2023/byggavtalet/)
-- [![Glasmästeriavtalet](https://kollektivavtal.github.io/2023/glasmasteriavtalet-1-kollektivavtal-320.webp)](https://kollektivavtal.github.io/2023/glasmasteriavtalet/)
-- [![Lackavtalet](https://kollektivavtal.github.io/2023/lackavtalet-320.webp)](https://kollektivavtal.github.io/2023/lackavtalet/)
-- [![Måleriavtalet](https://kollektivavtal.github.io/2023/maleriavtalet-1-kollektivavtal-for-maleriyrket-320.webp)](https://kollektivavtal.github.io/2023/maleriavtalet/)
-- [![Plåt- och Ventilationsavtalet](https://kollektivavtal.github.io/2023/plat-och-ventilationsavtalet-1-kollektivavtal-och-allmanna-bestammelser-320.webp)](https://kollektivavtal.github.io/2023/plat-och-ventilationsavtalet/)
+- [Byggavtalet](https://kollektivavtal.github.io/2023/byggavtalet/)
+- [Glasmästeriavtalet](https://kollektivavtal.github.io/2023/glasmasteriavtalet/)
+- [Lackavtalet](https://kollektivavtal.github.io/2023/lackavtalet/)
+- [Måleriavtalet](https://kollektivavtal.github.io/2023/maleriavtalet/)
+- [Plåt- och Ventilationsavtalet](https://kollektivavtal.github.io/2023/plat-och-ventilationsavtalet/)
 
 ### 2020
 
-- [![Plåt- och Ventilationsavtalet](https://kollektivavtal.github.io/2020/plat-och-ventilationsavtalet-1-kollektivavtal-och-allmanna-bestammelser-320.webp)](https://kollektivavtal.github.io/2020/plat-och-ventilationsavtalet/)
+- [Plåt- och Ventilationsavtalet](https://kollektivavtal.github.io/2020/plat-och-ventilationsavtalet/)

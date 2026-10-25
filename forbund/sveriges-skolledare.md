@@ -8,4 +8,4 @@ Sveriges Skolledare är ett fackförbund för ledare inom skol- och utbildningss
 
 ### 2022
 
-- [![Friskoleavtalet](https://kollektivavtal.github.io/2022/friskoleavtalet-1-kollektivavtal-320.webp)](https://kollektivavtal.github.io/2022/friskoleavtalet/)
+- [Friskoleavtalet](https://kollektivavtal.github.io/2022/friskoleavtalet/)

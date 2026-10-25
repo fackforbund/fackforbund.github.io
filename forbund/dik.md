@@ -6,6 +6,10 @@ DIK är ett fackförbund för akademiker som arbetar inom kultur- och kommunikat
 
 ## Kollektivavtal
 
+### 2025
+
+- [Public service-avtalet](https://kollektivavtal.github.io/2025/public-service-avtalet/)
+
 ### 2019
 
-- [![Bransch E - Vård- och behandlingsverksamhet](https://kollektivavtal.github.io/2019/bransch-e-vard-och-behandlingsverksamhet-1-kollektivavtal-320.webp)](https://kollektivavtal.github.io/2019/bransch-e-vard-och-behandlingsverksamhet/)
+- [Bransch E - Vård- och behandlingsverksamhet](https://kollektivavtal.github.io/2019/bransch-e-vard-och-behandlingsverksamhet/)

@@ -33,10 +33,12 @@ export function getUnionSlugs(): string[] {
     .map((entry) => entry.name.slice(0, -3));
 }
 
-// Agreement lines use the embedded-image form `- [![alt](img)](url)`, where
-// `img` is the agreement thumbnail URL and `url` is the agreement page. The
-// image URL is used directly rather than derived from the slug.
-const imageLink = /^-\s*\[!\[([^\]]*)\]\(([^)]+)\)\]\(([^)]+)\)\s*$/;
+// Agreement lines use plain Markdown links. Thumbnails are inferred from the
+// archive URL, so source Markdown does not need to duplicate image URLs.
+const agreementLink = /^-\s*\[([^\]]+)\]\((https:\/\/kollektivavtal\.github\.io\/(\d{4})\/([^/)]+)\/\))\s*$/;
+
+// Keep accepting the legacy embedded-image form while existing files migrate.
+const legacyImageLink = /^-\s*\[!\[([^\]]*)\]\(([^)]+)\)\]\(([^)]+)\)\s*$/;
 
 // A bare URL on its own line (the union's website).
 const bareUrl = /^https?:\/\/\S+$/;
@@ -110,9 +112,21 @@ export function parseUnion(slug: string): Union {
       continue;
     }
 
-    const agreementMatch = line.match(imageLink);
+    const agreementMatch = line.match(agreementLink);
     if (agreementMatch && currentYear) {
-      const [, title, thumbnail, url] = agreementMatch;
+      const [, title, url, year, agreementSlug] = agreementMatch;
+      currentAgreement = {
+        title,
+        url,
+        thumbnail: `https://kollektivavtal.github.io/${year}/${agreementSlug}-320.webp`,
+      };
+      currentYear.agreements.push(currentAgreement);
+      continue;
+    }
+
+    const legacyAgreementMatch = line.match(legacyImageLink);
+    if (legacyAgreementMatch && currentYear) {
+      const [, title, thumbnail, url] = legacyAgreementMatch;
       currentAgreement = { title, url, thumbnail };
       currentYear.agreements.push(currentAgreement);
       continue;
