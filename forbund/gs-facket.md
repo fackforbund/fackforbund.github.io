@@ -9,3 +9,7 @@ GS, Facket för Skogs-, Trä- och Grafisk bransch – mer känt som GS-facket �
 ### 2023
 
 - [Stoppmöbelindustriavtalet](https://kollektivavtal.github.io/2023/stoppmobelindustriavtalet/)
+
+### 2020
+
+- [Tidningsavtalet](https://kollektivavtal.github.io/2020/tidningsavtalet/)
