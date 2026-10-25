@@ -8,6 +8,7 @@ Fackförbundet ST organiserar anställda inom den offentliga sektorn, allmännyt
 
 ### 2025
 
+- [Högskoleavtalet](https://kollektivavtal.github.io/2025/hogskoleavtalet/)
 - [RALS](https://kollektivavtal.github.io/2025/rals/)
 
 ### 2023

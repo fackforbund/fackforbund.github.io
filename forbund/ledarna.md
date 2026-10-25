@@ -9,6 +9,7 @@ Ledarna är ett fackförbund för chefer och ledare.
 ### 2025
 
 - [Energiavtalet](https://kollektivavtal.github.io/2025/energiavtalet/)
+- [Högskoleavtalet](https://kollektivavtal.github.io/2025/hogskoleavtalet/)
 - [Massa- och Pappersavtalet](https://kollektivavtal.github.io/2025/massa-och-pappersavtalet/)
 - [Teknikavtalet](https://kollektivavtal.github.io/2025/teknikavtalet/)
 

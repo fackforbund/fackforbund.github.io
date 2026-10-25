@@ -6,6 +6,10 @@ Sveriges Lärare är ett fackförbund för lärare.
 
 ## Kollektivavtal
 
+### 2025
+
+- [Högskoleavtalet](https://kollektivavtal.github.io/2025/hogskoleavtalet/)
+
 ### 2023
 
 - [Almega Utbildning](https://kollektivavtal.github.io/2023/almega-utbildning/)
