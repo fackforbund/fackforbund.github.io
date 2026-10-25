@@ -35,7 +35,7 @@ export function getUnionSlugs(): string[] {
 
 // Agreement lines use plain Markdown links. Thumbnails are inferred from the
 // archive URL, so source Markdown does not need to duplicate image URLs.
-const agreementLink = /^-\s*\[([^\]]+)\]\((https:\/\/kollektivavtal\.github\.io\/(\d{4})\/([^/)]+)\/\))\s*$/;
+const agreementLink = /^-\s*\[([^\]]+)\]\((https:\/\/kollektivavtal\.github\.io\/(\d{4})\/([^/)]+)\/)\)\s*$/;
 
 // Keep accepting the legacy embedded-image form while existing files migrate.
 const legacyImageLink = /^-\s*\[!\[([^\]]*)\]\(([^)]+)\)\]\(([^)]+)\)\s*$/;
