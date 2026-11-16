@@ -8,5 +8,5 @@ Säljarnas Riksförbund, oftast kallat Säljarnas, är ett fackförbund för sä
 
 ### 2021
 
-- [Egenanställningsavtalet](https://kollektivavtal.github.io/2021/egenanstallningsavtalet/)
-- [Säljaravtalet](https://kollektivavtal.github.io/2021/saljaravtalet/)
+- [Egenanställningsavtalet](https://kollektivavtal.github.io/egenanstallningsavtalet#2021)
+- [Säljaravtalet](https://kollektivavtal.github.io/saljaravtalet#2021)

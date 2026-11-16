@@ -8,8 +8,8 @@ Pappersindustriarbetareförbundet, mer känt som Pappers, är ett fackförbund s
 
 ### 2025
 
-- [Massa- och Pappersavtalet](https://kollektivavtal.github.io/2025/massa-och-pappersavtalet/)
+- [Massa- och Pappersavtalet](https://kollektivavtal.github.io/massa-och-pappersavtalet#2025)
 
 ### 2023
 
-- [Massa- och Pappersavtalet](https://kollektivavtal.github.io/2023/massa-och-pappersavtalet/)
+- [Massa- och Pappersavtalet](https://kollektivavtal.github.io/massa-och-pappersavtalet#2023)

@@ -8,8 +8,8 @@ Finansförbundet organiserar anställda inom bank- och finanssektorerna.
 
 ### 2026
 
-- [Bankavtalet](https://kollektivavtal.github.io/2026/bankavtalet/)
+- [Bankavtalet](https://kollektivavtal.github.io/bankavtalet#2026)
 
 ### 2023
 
-- [Bankavtalet](https://kollektivavtal.github.io/2023/bankavtalet/)
+- [Bankavtalet](https://kollektivavtal.github.io/bankavtalet#2023)

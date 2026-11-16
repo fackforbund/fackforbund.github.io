@@ -8,21 +8,21 @@ Sjöbefälsföreningen är ett fackförbund för catering, ingenjörer och sjöb
 
 ### 2025
 
-- [Bogseravtalen](https://kollektivavtal.github.io/2025/bogseravtalen/)
-- [Skärgårdsavtalet](https://kollektivavtal.github.io/2025/skargardsavtalet/)
-- [Storsjöavtalet](https://kollektivavtal.github.io/2025/storsjoavtalet/)
+- [Bogseravtalen](https://kollektivavtal.github.io/bogseravtalen#2025)
+- [Skärgårdsavtalet](https://kollektivavtal.github.io/skargardsavtalet#2025)
+- [Storsjöavtalet](https://kollektivavtal.github.io/storsjoavtalet#2025)
 
 ### 2024
 
-- [Bogseravtalen](https://kollektivavtal.github.io/2024/bogseravtalen/)
-- [Europaavtalet](https://kollektivavtal.github.io/2024/europaavtalet/)
-- [Storsjöavtalet](https://kollektivavtal.github.io/2024/storsjoavtalet/)
-- [TAP-avtalet](https://kollektivavtal.github.io/2024/tap-avtalet/)
+- [Bogseravtalen](https://kollektivavtal.github.io/bogseravtalen#2024)
+- [Europaavtalet](https://kollektivavtal.github.io/europaavtalet#2024)
+- [Storsjöavtalet](https://kollektivavtal.github.io/storsjoavtalet#2024)
+- [TAP-avtalet](https://kollektivavtal.github.io/tap-avtalet#2024)
 
 ### 2023
 
-- [Bogseravtalen](https://kollektivavtal.github.io/2023/bogseravtalen/)
-- [Europaavtalet](https://kollektivavtal.github.io/2023/europaavtalet/)
-- [Färjebilagan](https://kollektivavtal.github.io/2023/farjebilagan/)
-- [Skärgårdsavtalet](https://kollektivavtal.github.io/2023/skargardsavtalet/)
-- [Storsjöavtalet](https://kollektivavtal.github.io/2023/storsjoavtalet/)
+- [Bogseravtalen](https://kollektivavtal.github.io/bogseravtalen#2023)
+- [Europaavtalet](https://kollektivavtal.github.io/europaavtalet#2023)
+- [Färjebilagan](https://kollektivavtal.github.io/farjebilagan#2023)
+- [Skärgårdsavtalet](https://kollektivavtal.github.io/skargardsavtalet#2023)
+- [Storsjöavtalet](https://kollektivavtal.github.io/storsjoavtalet#2023)

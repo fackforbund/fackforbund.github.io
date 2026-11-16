@@ -8,22 +8,22 @@ Elektrikerförbundet, mer känt som Elektrikerna, är ett fackförbund som repre
 
 ### 2025
 
-- [Bemanningsavtalet (LO)](https://kollektivavtal.github.io/2025/bemanningsavtalet-lo/)
-- [Elektronikteknikeravtalet](https://kollektivavtal.github.io/2025/elektronikteknikeravtalet/)
-- [Installationsavtalet](https://kollektivavtal.github.io/2025/installationsavtalet/)
-- [Kraftverksavtalet](https://kollektivavtal.github.io/2025/kraftverksavtalet/)
-- [Larm- och säkerhetsteknikavtalet](https://kollektivavtal.github.io/2025/larm-och-sakerhetsteknikavtalet/)
-- [Manpoweravtalet](https://kollektivavtal.github.io/2025/manpoweravtalet/)
-- [TKE-avtalet](https://kollektivavtal.github.io/2025/tke-avtalet/)
+- [Bemanningsavtalet (LO)](https://kollektivavtal.github.io/bemanningsavtalet-lo#2025)
+- [Elektronikteknikeravtalet](https://kollektivavtal.github.io/elektronikteknikeravtalet#2025)
+- [Installationsavtalet](https://kollektivavtal.github.io/installationsavtalet#2025)
+- [Kraftverksavtalet](https://kollektivavtal.github.io/kraftverksavtalet#2025)
+- [Larm- och säkerhetsteknikavtalet](https://kollektivavtal.github.io/larm-och-sakerhetsteknikavtalet#2025)
+- [Manpoweravtalet](https://kollektivavtal.github.io/manpoweravtalet#2025)
+- [TKE-avtalet](https://kollektivavtal.github.io/tke-avtalet#2025)
 
 ### 2023
 
-- [Installationsavtalet](https://kollektivavtal.github.io/2023/installationsavtalet/)
-- [Kraftverksavtalet](https://kollektivavtal.github.io/2023/kraftverksavtalet/)
-- [Manpoweravtalet](https://kollektivavtal.github.io/2023/manpoweravtalet/)
-- [Radio & TV-avtalet](https://kollektivavtal.github.io/2023/radio-tv-avtalet/)
-- [TKE-avtalet](https://kollektivavtal.github.io/2023/tke-avtalet/)
+- [Installationsavtalet](https://kollektivavtal.github.io/installationsavtalet#2023)
+- [Kraftverksavtalet](https://kollektivavtal.github.io/kraftverksavtalet#2023)
+- [Manpoweravtalet](https://kollektivavtal.github.io/manpoweravtalet#2023)
+- [Radio & TV-avtalet](https://kollektivavtal.github.io/radio-och-tv-avtalet#2023)
+- [TKE-avtalet](https://kollektivavtal.github.io/tke-avtalet#2023)
 
 ### 2021
 
-- [Elektroskandiaavtalet](https://kollektivavtal.github.io/2021/elektroskandiaavtalet/)
+- [Elektroskandiaavtalet](https://kollektivavtal.github.io/elektroskandiaavtalet#2021)

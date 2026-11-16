@@ -8,12 +8,12 @@ Kommunalarbetareförbundet, mer känt som Kommunal, är ett fackförbund som fr�
 
 ### 2025
 
-- [Svenska Kyrkan](https://kollektivavtal.github.io/2025/svenska-kyrkan/)
+- [Svenska Kyrkan](https://kollektivavtal.github.io/svenska-kyrkan#2025)
 
 ### 2024
 
-- [Räddningstjänst i Beredskap](https://kollektivavtal.github.io/2024/raddningstjanst-i-beredskap/)
+- [Räddningstjänst i Beredskap](https://kollektivavtal.github.io/raddningstjanst-i-beredskap#2024)
 
 ### 2020
 
-- [Idrottsavtalet](https://kollektivavtal.github.io/2020/idrottsavtalet/)
+- [Idrottsavtalet](https://kollektivavtal.github.io/idrottsavtalet#2020)

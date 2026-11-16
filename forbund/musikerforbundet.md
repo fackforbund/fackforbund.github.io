@@ -8,4 +8,4 @@ Musikerförbundet är ett fackförbund som representerar musiker.
 
 ### 2017
 
-- [Folkets Hus och Parker](https://kollektivavtal.github.io/2017/folkets-hus-och-parker/)
+- [Folkets Hus och Parker](https://kollektivavtal.github.io/folkets-hus-och-parker#2017)

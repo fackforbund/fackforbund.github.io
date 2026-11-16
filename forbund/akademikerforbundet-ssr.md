@@ -8,16 +8,16 @@ Akademikerförbundet SSR är ett fackförbund för yrkesverksamma med universite
 
 ### 2025
 
-- [Systembolagsanställda](https://kollektivavtal.github.io/2025/systembolagsanstallda/)
+- [Systembolagsanställda](https://kollektivavtal.github.io/systembolagsanstallda#2025)
 
 ### 2023
 
-- [Svenska Kyrkans Avtal](https://kollektivavtal.github.io/2023/svenska-kyrkan/)
+- [Svenska Kyrkans Avtal](https://kollektivavtal.github.io/svenska-kyrkan#2023)
 
 ### 2021
 
-- [Svenska Kyrkan](https://kollektivavtal.github.io/2021/svenska-kyrkan/)
+- [Svenska Kyrkan](https://kollektivavtal.github.io/svenska-kyrkan#2021)
 
 ### 2019
 
-- [Bransch E - Vård- och behandlingsverksamhet](https://kollektivavtal.github.io/2019/bransch-e-vard-och-behandlingsverksamhet/)
+- [Bransch E - Vård- och behandlingsverksamhet](https://kollektivavtal.github.io/bransch-e-vard-och-behandlingsverksamhet#2019)

@@ -8,10 +8,10 @@ Förena organiserar anställda i försäkringsbolag och närliggande banker.
 
 ### 2025
 
-- [Folksamgruppen](https://kollektivavtal.github.io/2025/folksamgruppen/)
-- [Försäkringsbranschen](https://kollektivavtal.github.io/2025/forsakringsbranschen/)
+- [Folksamgruppen](https://kollektivavtal.github.io/folksamgruppen#2025)
+- [Försäkringsbranschen](https://kollektivavtal.github.io/forsakringsbranschen#2025)
 
 ### 2023
 
-- [Folksamgruppen](https://kollektivavtal.github.io/2023/folksamgruppen/)
-- [Försäkringsbranchen](https://kollektivavtal.github.io/2023/forsakringsbranchen/)
+- [Folksamgruppen](https://kollektivavtal.github.io/folksamgruppen#2023)
+- [Försäkringsbranchen](https://kollektivavtal.github.io/forsakringsbranschen#2023)

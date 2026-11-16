@@ -8,19 +8,19 @@ Byggnadsarbetareförbundet, mer känt som Byggnads, är ett fackförbund som rep
 
 ### 2025
 
-- [Byggavtalet](https://kollektivavtal.github.io/2025/byggavtalet/)
-- [Glasmästeriavtalet](https://kollektivavtal.github.io/2025/glasmasteriavtalet/)
-- [Måleriavtalet](https://kollektivavtal.github.io/2025/maleriavtalet/)
-- [Teknikinstallationsavtalet VVS & Kyl](https://kollektivavtal.github.io/2025/teknikinstallationsavtalet-vvs-kyl/)
+- [Byggavtalet](https://kollektivavtal.github.io/byggavtalet#2025)
+- [Glasmästeriavtalet](https://kollektivavtal.github.io/glasmasteriavtalet#2025)
+- [Måleriavtalet](https://kollektivavtal.github.io/maleriavtalet#2025)
+- [Teknikinstallationsavtalet VVS & Kyl](https://kollektivavtal.github.io/teknikinstallationsavtalet-vvs-och-kyl#2025)
 
 ### 2023
 
-- [Byggavtalet](https://kollektivavtal.github.io/2023/byggavtalet/)
-- [Glasmästeriavtalet](https://kollektivavtal.github.io/2023/glasmasteriavtalet/)
-- [Lackavtalet](https://kollektivavtal.github.io/2023/lackavtalet/)
-- [Måleriavtalet](https://kollektivavtal.github.io/2023/maleriavtalet/)
-- [Plåt- och Ventilationsavtalet](https://kollektivavtal.github.io/2023/plat-och-ventilationsavtalet/)
+- [Byggavtalet](https://kollektivavtal.github.io/byggavtalet#2023)
+- [Glasmästeriavtalet](https://kollektivavtal.github.io/glasmasteriavtalet#2023)
+- [Lackavtalet](https://kollektivavtal.github.io/lackavtalet#2023)
+- [Måleriavtalet](https://kollektivavtal.github.io/maleriavtalet#2023)
+- [Plåt- och Ventilationsavtalet](https://kollektivavtal.github.io/plat-och-ventilationsavtalet#2023)
 
 ### 2020
 
-- [Plåt- och Ventilationsavtalet](https://kollektivavtal.github.io/2020/plat-och-ventilationsavtalet/)
+- [Plåt- och Ventilationsavtalet](https://kollektivavtal.github.io/plat-och-ventilationsavtalet#2020)

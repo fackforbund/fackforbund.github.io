@@ -8,27 +8,27 @@ Hotell- och Restaurangfacket, även känt som HRF, representerar anställda inom
 
 ### 2025
 
-- [Almega Spel](https://kollektivavtal.github.io/2025/almega-spel/)
-- [Bingoavtalet](https://kollektivavtal.github.io/2025/bingoavtalet/)
-- [Bowlingavtalet](https://kollektivavtal.github.io/2025/bowlingavtalet/)
-- [Casinoavtalet](https://kollektivavtal.github.io/2025/casinoavtalet/)
-- [Cateringavtalet](https://kollektivavtal.github.io/2025/cateringavtalet/)
-- [Djurparksavtalet](https://kollektivavtal.github.io/2025/djurparksavtalet/)
-- [Folkets Hus och Parker](https://kollektivavtal.github.io/2025/folkets-hus-och-parker/)
-- [Gröna riks](https://kollektivavtal.github.io/2025/grona-riks/)
-- [Gröna Riksavtalet](https://kollektivavtal.github.io/2025/grona-riksavtalet/)
-- [Nöjesavtalet](https://kollektivavtal.github.io/2025/nojesavtalet/)
-- [Ordningsvaktsavtalet](https://kollektivavtal.github.io/2025/ordningsvaktsavtalet/)
-- [Restaurang- och caféanställda](https://kollektivavtal.github.io/2025/restaurang-och-cafeanstallda/)
-- [Serveringsavtalet](https://kollektivavtal.github.io/2025/serveringsavtalet/)
+- [Almega Spel](https://kollektivavtal.github.io/almega-spel#2025)
+- [Bingoavtalet](https://kollektivavtal.github.io/bingoavtalet#2025)
+- [Bowlingavtalet](https://kollektivavtal.github.io/bowlingavtalet#2025)
+- [Casinoavtalet](https://kollektivavtal.github.io/casinoavtalet#2025)
+- [Cateringavtalet](https://kollektivavtal.github.io/cateringavtalet#2025)
+- [Djurparksavtalet](https://kollektivavtal.github.io/djurparksavtalet#2025)
+- [Folkets Hus och Parker](https://kollektivavtal.github.io/folkets-hus-och-parker#2025)
+- [Gröna riks](https://kollektivavtal.github.io/grona-riksavtalet#2025)
+- [Gröna Riksavtalet](https://kollektivavtal.github.io/grona-riksavtalet#2025)
+- [Nöjesavtalet](https://kollektivavtal.github.io/nojesavtalet#2025)
+- [Ordningsvaktsavtalet](https://kollektivavtal.github.io/ordningsvaktsavtalet#2025)
+- [Restaurang- och caféanställda](https://kollektivavtal.github.io/restaurang-och-cafeanstallda#2025)
+- [Serveringsavtalet](https://kollektivavtal.github.io/serveringsavtalet#2025)
 
 ### 2023
 
-- [Almega Spel](https://kollektivavtal.github.io/2023/almega-spel/)
-- [Casinoavtalet](https://kollektivavtal.github.io/2023/casinoavtalet/)
-- [Folkets Hus och Parker](https://kollektivavtal.github.io/2023/folkets-hus-och-parker/)
+- [Almega Spel](https://kollektivavtal.github.io/almega-spel#2023)
+- [Casinoavtalet](https://kollektivavtal.github.io/casinoavtalet#2023)
+- [Folkets Hus och Parker](https://kollektivavtal.github.io/folkets-hus-och-parker#2023)
 
 ### 2020
 
-- [Casinoavtalet](https://kollektivavtal.github.io/2020/casinoavtalet/)
-- [Hotell- och Restaurangavtalet](https://kollektivavtal.github.io/2020/hotell-och-restaurangavtalet/)
+- [Casinoavtalet](https://kollektivavtal.github.io/casinoavtalet#2020)
+- [Hotell- och Restaurangavtalet](https://kollektivavtal.github.io/hotell-och-restaurangavtalet#2020)

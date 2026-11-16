@@ -8,8 +8,8 @@ Sveriges Farmaceuter är ett fackförbund för universitetsutbildade inom farmac
 
 ### 2025
 
-- [Apoteksavtalet](https://kollektivavtal.github.io/2025/apoteksavtalet/)
+- [Apoteksavtalet](https://kollektivavtal.github.io/apoteksavtalet#2025)
 
 ### 2023
 
-- [Apoteksavtalet](https://kollektivavtal.github.io/2023/apoteksavtalet/)
+- [Apoteksavtalet](https://kollektivavtal.github.io/apoteksavtalet#2023)
